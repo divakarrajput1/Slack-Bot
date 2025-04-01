@@ -1,5 +1,5 @@
 # Slack Approval Bot
-A Node.js Slack bot that streamlines approval workflows using slash commands, modals, and interactive buttons. Built with Slack Bolt and Express.js.
+A Node.js Slack bot that streamlines approval workflows using slash commands, modals, and interactive buttons. Built with Slack APIs and Express.js.
 
 ##  Features
 - **Slash Command** (`/approval-boto`) to request approvals
